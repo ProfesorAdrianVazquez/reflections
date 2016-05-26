@@ -11,14 +11,22 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  R. When i modified a file, i need to add to the staging area; i want commit
+     the changes to the repository when i consider necessary. The staging area
+     is used than a temporal archive.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  R. When we want to create different funcionality to the same project.
+    Each branch can implement one funcionality.
 
 How do the diagrams help you visualize the branch structure?
+  R. I can see the different branchs and the commits that has made in
+  each of them.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  R. When we merge two branches, we get a branch with both changes, without conflict in the information. If there are conflicts, merge is not possible.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
