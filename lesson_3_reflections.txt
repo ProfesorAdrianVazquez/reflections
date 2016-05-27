@@ -27,7 +27,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    The branchs are useful when the team want to make changes separatelly, each branch must achieve a purpose, when the purpose is achieved, merge the work in the general project (master banch).
 
 Adrian Vazquez Osorio
 Mayo de 2016.
